@@ -19,7 +19,7 @@
 
 1. **[공략집(with 미니맵)](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/minimap/%EA%B3%B5%EB%9E%B5%EC%A7%91_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.png?raw=true)** : 책의 내용을 가장 빠르고 효율적으로 체득하시길 바라는 마음에서 별책부록으로 공략집을 준비했습니다. 
 
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0_%ED%88%AC%EB%AA%85.png?raw=true" title="공략집 미리보기" width=700></img>
+<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.png?raw=true" title="공략집 미리보기" width=700></img>
 
 2. **체크리스트** : 문제해결 과정에서 짚어봐야 할 사항들을 프로세스 단계별로 정리한 표입니다.<br>자유롭게 수정·개선하여 여러분만의 비밀 무기로 활용해주세요.
    * [머신러닝 문제해결 체크리스트](https://docs.google.com/spreadsheets/d/1kVygnwbR_YUpNFgw-6mZQuPn8ILY2m3vl32BOu7gQsc/edit#gid=39315817)

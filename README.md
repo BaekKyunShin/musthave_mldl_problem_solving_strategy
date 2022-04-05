@@ -1,4 +1,4 @@
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EC%9E%85%EC%B2%B4%20%ED%91%9C%EC%A7%80.png?raw=true" title="머신러닝·딥러닝 문제해결 전략" width=270 align=left></img>
+<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EC%9E%85%EC%B2%B4%20%ED%91%9C%EC%A7%802.png?raw=true" title="머신러닝·딥러닝 문제해결 전략" width=270 align=left></img>
 
 # 《머신러닝·딥러닝 문제해결 전략》
 ## 캐글 수상작 리팩터링으로 배우는 문제해결 프로세스와 전략

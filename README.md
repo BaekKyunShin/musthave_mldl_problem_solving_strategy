@@ -4,8 +4,8 @@
 ## 캐글 수상작 리팩터링으로 배우는 문제해결 프로세스와 전략
 &nbsp; * 신백균 지음 | <a href="https://goldenrabbit.co.kr">골든래빗(주)</a> <br>
 &nbsp; * 38,000원 | 652쪽 <br>
-&nbsp; * <a href="">미리보기</a> | <a href="">공략집(with 미니맵)</a> | <a href="https://docs.google.com/spreadsheets/d/1j9NWc1alCUvXnXI8Iy3sQPxiPI4RgEcXvOBUqABJH2E/edit#gid=600776394">정오표</a>  <br>
-&nbsp; * 구매처 : <a href="">교보문고</a>, <a href="">예스24</a>, <a href="">알라딘</a>, <a href="">인터파크</a>
+&nbsp; * <a href="https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view">미리보기</a> | <a href="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/raw/main/minimap/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5%20%EA%B3%B5%EB%9E%B5%EC%A7%91.pdf">공략집(with 미니맵)</a> | <a href="https://docs.google.com/spreadsheets/d/1j9NWc1alCUvXnXI8Iy3sQPxiPI4RgEcXvOBUqABJH2E/edit#gid=600776394">정오표</a>  <br>
+&nbsp; * 구매처 : <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191905076">교보문고</a>, <a href="http://www.yes24.com/product/goods/108802734">예스24</a>, <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292510407">알라딘</a>, <a href="">인터파크</a>
 
 <pre>
 </pre>

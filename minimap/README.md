@@ -16,29 +16,8 @@
 
 <img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B402.PNG?raw=true" title="공략집 펼침면" width=700></img>
 
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B403.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B404.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B405.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
 <img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B406.PNG?raw=true" title="공략집 펼침면" width=700></img>
 
 <img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B407.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B408.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B409.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B410.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B411.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B412.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B413.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EA%B3%B5%EB%9E%B5%EC%A7%91_%ED%8E%BC%EC%B9%A8%EB%A9%B414.PNG?raw=true" title="공략집 펼침면" width=700></img>
-
 
 * [공략집 최신 버전 PDF 다운로드하기](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/raw/main/minimap/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5%20%EA%B3%B5%EB%9E%B5%EC%A7%91.pdf)

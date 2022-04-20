@@ -91,6 +91,13 @@
    * 성능 개선 : https://www.kaggle.com/werooring/ch13-modeling
    * 환경 세팅된 노트북 양식 : https://www.kaggle.com/werooring/ch13-notebook
 
+## 소개 영상
+
+소개 영상을 만들어주신 박조은 님과 박재호 님께 감사드립니다.
+
+[![Video Label](http://img.youtube.com/vi/sZAGzIJvNdc/0.jpg)](https://www.youtube.com/watch?v=sZAGzIJvNdc) [![Video Label](http://img.youtube.com/vi/R3KfBFJyvwk/0.jpg)](https://www.youtube.com/watch?v=R3KfBFJyvwk)
+
+
 ## 목차
 
 * **1부. 머신러닝 레벨업의 지름길, 캐글**
